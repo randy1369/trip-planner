@@ -26,6 +26,18 @@ def display_place_info(place_name, place_state):
                 # You can customize the content for each tab based on tab_data
                 with st.expander("About-", expanded=True):
                     st.write(tab_data['description'])
+                    st.markdown(
+                        f"""
+                        <style>
+                            img {{
+                                max-width: 100%;
+                                width: auto;
+                                height: auto;
+                            }}
+                        </style>
+                        """,
+                        unsafe_allow_html=True
+                    )
                     image_url = tab_data['image']
                     st.image(image_url, width=600)
 
