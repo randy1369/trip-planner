@@ -46,7 +46,7 @@ def main():
     # Sidebar: Choose the tourist place
     chosen_state = st.sidebar.selectbox("Choose a state", ["kerala", "Goa", "Other States"])
 
-    if chosen_state == "Kerala":
+    if chosen_state == "kerala":
         # If Kerala is chosen, display sub-options
         chosen_place = st.sidebar.selectbox("Choose a tourist place in Kerala", ["Munnar", "Alappuzha", "Kochi", "Trivandrum", "Thekkady", "Wayanad"])
 
