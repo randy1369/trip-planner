@@ -1,0 +1,314 @@
+
+
+{
+  "Munnar": {
+    "Eravikulam National Park": {
+      "description": "National park with wildlife and trekking opportunities",
+      "rating": 4.5,
+      "image": "https://www.munnarinfo.in/uploads/profile/1582698753wejrdcbk118230.jpg",
+      "activities":  ["Trekking", "Wildlife watching", "Bird watching"],
+      "accommodation": ["Hotels", "Resorts"],
+      "transportation": ["Local buses", "Taxis"]
+    },
+    "Mattupetty Dam": {
+      "description": "Scenic dam with boating facilities",
+      "rating": 4.3,
+      "image": "https://www.karthitravels.com/images/new/munnar/mattupettydam4.jpg",
+      "activities": ["Boating", "Scenic walks"],
+      "accommodation": ["Cottages", "Guesthouses"],
+      "transportation": ["Private vehicles", "Tour buses"]
+    },
+    "Anamudi Peak": {
+      "description": "Highest peak in South India, ideal for trekking",
+      "rating": 4.6,
+      "image": "https://www.munnar.holiday/munnartourism/wp-content/uploads/2022/05/Anamudi.jpg",
+      "activities": ["Trekking", "Photography"],
+      "accommodation": ["Tented camps", "Homestays"],
+      "transportation": ["Hiking", "Guided tours"]
+    },
+    "Tea Gardens and Plantations": {
+      "description": "Lush tea estates offering guided tours",
+      "rating": 4.7,
+      "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/12/e9/52/a2/sunset-at-tata-tea-gardens.jpg?w=1200&h=-1&s=1",
+      "activities": ["Tea tasting", "Guided tours"],
+      "accommodation": ["Plantation stays", "Resorts"],
+      "transportation": ["Local guides", "Self-drive"]
+    },
+    "Attukal Waterfalls": {
+      "description": "Picturesque waterfalls surrounded by hills",
+      "rating": 4.4,
+      "image": "https://www.explorebees.com/uploads/Attukal%20Waterfalls.jpg",
+      "activities": ["Nature walks", "Photography"],
+      "accommodation": ["Homestays", "Guesthouses"],
+      "transportation": ["Local transport", "Private vehicles"]
+    },
+    "Top Station": {
+      "description": "Hill station with panoramic views",
+      "rating": 4.2,
+      "image": "https://www.tourmyindia.com/states/kerala/images/Top-Station-Munnar-1.jpg",
+      "activities": ["Panoramic views", "Trekking"],
+      "accommodation": ["Hotels", "Cottages"],
+      "transportation": ["Private vehicles", "Taxis"]
+    }
+  },
+  "Alappuzha": {
+    "Alleppey Backwaters": {
+      "description": "Extensive network of backwaters and houseboats",
+      "rating": 4.8,
+      "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/cc/95/14/alleppey-backwater-tour.jpg?w=1200&h=900&s=1",
+      "activities": ["Houseboat cruise", "Canoeing", "Village tours"],
+      "accommodation": ["Houseboats", "Resorts"],
+      "transportation": ["Boats", "Shikara rides"]
+    },
+    "Alappuzha Beach": {
+      "description": "Sandy beach with scenic views",
+      "rating": 4.5,
+      "image": "https://media-cdn.tripadvisor.com/media/photo-c/1280x250/09/f4/b0/b7/alappuzha-beach.jpg",
+      "activities": ["Beach walks", "Sunset views"],
+      "accommodation": ["Beach resorts", "Hotels"],
+      "transportation": ["Local transport", "Auto-rickshaws"]
+    },
+    "Punnamada Lake": {
+      "description": "Serene lake with houseboat cruises",
+      "rating": 4.6,
+      "image": "https://www.picnicwale.com/attractions/assets/sightseeing/price-for-punnamada-lake-in-kerala.jpg",
+      "activities": ["Houseboat tours", "Bird watching"],
+      "accommodation": ["Houseboats", "Lake-view resorts"],
+      "transportation": ["Boats", "Shikara rides"]
+    },
+    "Vembanad Lake": {
+      "description": "India's longest lake with diverse ecosystems",
+      "rating": 4.7,
+      "image": "https://www.oyorooms.com/travel-guide/wp-content/uploads/2019/12/chinese-fishing-nets-vembanad-lake-kerala-1280x720.webp",
+      "activities": ["Bird watching", "Boat tours"],
+      "accommodation": ["Lake-view resorts", "Hotels"],
+      "transportation": ["Shikara rides", "Local transport"]
+    },
+    "Krishnapuram Palace": {
+      "description": "Historic palace with museum and garden",
+      "rating": 4.3,
+      "image": "https://www.keralatourism.org/images/picture/hri/Krishnapuram_Palace_Alappuzha_2474.JPG",
+      "activities": ["Museum visits", "Garden walks"],
+      "accommodation": ["Heritage stays", "Guesthouses"],
+      "transportation": ["Private vehicles", "Local buses"]
+    },
+    "Marari Beach": {
+      "description": "Tranquil beach with fishing villages",
+      "rating": 4.4,
+      "image": "https://www.tripsavvy.com/thmb/D9WjS116uxf_gJS_Wy9IbJ-Fcx0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-1150059526-cf4eda06f1f749d2a2db6fe6a2ad6059.jpg",
+      "activities": ["Beach relaxation", "Village tours"],
+      "accommodation": ["Beach resorts", "Cottages"],
+      "transportation": ["Auto-rickshaws", "Local transport"]
+    }
+  },
+  "Kochi": {
+    "Fort Kochi": {
+      "description": "Historic fort area with colonial architecture",
+      "rating": 4.6,
+      "image": "https://s3.ap-south-1.amazonaws.com/zo-media/blog_photo/cochin-fort-kochi.jpg",
+      "activities": ["Historical exploration", "Sightseeing", "Shopping"],
+      "accommodation": ["Heritage hotels", "Guesthouses"],
+      "transportation": ["Walking tours", "Auto-rickshaws"]
+    },
+    "Jew Town": {
+      "description": "Antique market with diverse shops",
+      "rating": 4.3,
+      "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.jta.org%2Fwp-content%2Fuploads%2F2020%2F12%2F12-15-20-cochin-4.jpg&f=1&nofb=1&ipt=da46e23ae77b4cc7ff19fc968ec53f1b03c8c7f7ed802b500e480763740f8cee&ipo=images",
+      "activities": ["Shopping", "Antique hunting"],
+      "accommodation": ["Boutique hotels", "Guesthouses"],
+      "transportation": ["Auto-rickshaws", "Taxis"]
+    },
+    "Marine Drive": {
+      "description": "Promenade along the backwaters with city views",
+      "rating": 4.5,
+      "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.pinimg.com%2Foriginals%2F4e%2Fd1%2F36%2F4ed136bf2302c8625491cfc1d4a52681.jpg&f=1&nofb=1&ipt=7fd49336f4777197e4a382a8073662a7abc06aa6774aa178c67677c9f763332d&ipo=images",
+      "activities": ["Evening walks", "Boat rides"],
+      "accommodation": ["Waterfront hotels", "Apartments"],
+      "transportation": ["Local buses", "Taxis"]
+    },
+    "Santa Cruz Cathedral Basilica": {
+      "description": "Historic cathedral with stunning architecture",
+      "rating": 4.4,
+      "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fpilgrimstays.com%2Fwp-content%2Fuploads%2F2020%2F03%2FSanta-1-scaled.jpg&f=1&nofb=1&ipt=645fcd7ddf70562503fd8472d59c1cbd0595f8017116fbd3022301bf110f5f3e&ipo=images",
+      "activities": ["Cathedral visits", "Religious tours"],
+      "accommodation": ["Heritage stays", "Hotels"],
+      "transportation": ["Walking tours", "Auto-rickshaws"]
+    },
+    "Kochi Biennale": {
+      "description": "Contemporary art exhibition held every two years",
+      "rating": 4.6,
+      "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.fionadunlop.com%2Fwp-content%2Fuploads%2F2019%2F03%2FIMG_3178.jpg&f=1&nofb=1&ipt=17a7afbda3fea690d73aa78a4087b7ca5cc370d019028c0307b240417a640e16&ipo=images",
+      "activities": ["Art appreciation", "Gallery visits"],
+      "accommodation": ["Artistic hotels", "Guesthouses"],
+      "transportation": ["Walking tours", "Taxis"]
+    },
+    "Hill Palace": {
+      "description": "Archaeological museum in a former royal palace",
+      "rating": 4.2,
+      "image": "https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.transindiatravels.com%2Fwp-content%2Fuploads%2Fhill-palace-of-tripunithura-kochi.jpg&f=1&nofb=1&ipt=0224eb43e31332e78f29b38a4afccc4293d14eea588404bfad897b8474675698&ipo=images",
+      "activities": ["Museum tours", "Historical exploration"],
+      "accommodation": ["Hotels", "Heritage stays"],
+      "transportation": ["Local buses", "Taxis"]
+    }
+  },
+  "Trivandrum": {
+        "Padmanabhaswamy Temple": {
+            "description": "Ancient Hindu temple with intricate architecture",
+            "rating": 4.7,
+            "image": "https://img.onmanorama.com/content/dam/mm/en/travel/outside-kerala/images/2022/3/8/sree-padmanabhaswamy-temple.jpg",
+            "activities":  ["Religious visit", "Art and architecture exploration"],
+            "accommodation": [],
+            "transportation": []
+        },
+        "Kovalam Beach": {
+            "description": "Popular beach destination with water activities",
+            "rating": 4.5,
+            "image": "https://www.keralatourism.org/images/destination/mobile/kovalam20131031105847_236_1.jpg",
+            "activities": ["Beach activities", "Water sports"],
+            "accommodation": [],
+            "transportation": []
+        },
+        "Napier Museum": {
+            "description": "Art and natural history museum",
+            "rating": 4.3,
+            "image": "https://www.dtpcthiruvananthapuram.com/uploads/picture_gallery/gallery_images/napier-musieum-20230517090726974613.webp",
+            "activities": ["Art and history exploration"],
+            "accommodation": [],
+            "transportation": []
+        },
+        "Poovar Island": {
+            "description": "Estuary and beach with boating opportunities",
+            "rating": 4.6,
+            "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/b6/37/09/beach-view.jpg?w=700&h=-1&s=1",
+            "activities": ["Boating", "Beach activities"],
+            "accommodation": [],
+            "transportation": []
+        },
+        "Shanghumukham Beach": {
+            "description": "Seaside promenade with sunset views",
+            "rating": 4.4,
+            "image": "https://i.ytimg.com/vi/9FzdMT_kYmk/maxresdefault.jpg",
+            "activities": ["Seaside relaxation", "Sunset views"],
+            "accommodation": [],
+            "transportation": []
+        },
+        "Agastya Mala": {
+            "description": "Sacred peak with trekking trails",
+            "rating": 4.2,
+            "image": "https://www.keralatourism.org/images/destination/large/agasthyakoodam20131114155513_245_1.jpg",
+            "activities": ["Trekking", "Spiritual retreat"],
+            "accommodation": [],
+            "transportation": []
+        },
+        "Azhimala Shiva Temple": {
+            "description": "Historic Shiva temple with coastal views",
+            "rating": 4.4,
+            "image": "https://tfiglobalnews.com/wp-content/uploads/2022/12/Azhimala-Shiva-Temple-drone-view.jpg",
+            "activities": [],
+            "accommodation": [],
+            "transportation": []
+        }
+    },
+    "Thekkady": {
+        "Periyar National Park": {
+            "description": "Wildlife sanctuary with boat safaris and treks",
+            "rating": 4.8,
+            "image": "https://www.toptourguide.com/images/periyar-national-park-images.jpg",
+            "activities": ["Wildlife safari", "Boat tour"],
+            "accommodation": [],
+            "transportation": []
+        },
+        "Periyar Lake": {
+            "description": "Artificial lake offering boating and wildlife views",
+            "rating": 4.6,
+            "image": "https://keralatourism.travel/images/places-to-visit/headers/periyar-lake-thekkady-tourism-entry-fee-timings-holidays-reviews-header.jpg",
+            "activities": ["Boating", "Wildlife watching"],
+            "accommodation": [],
+            "transportation": []
+        },
+        "Spice Plantations": {
+            "description": "Plantation tours showcasing spices and herbs",
+            "rating": 4.5,
+            "image": "https://3.bp.blogspot.com/-y7sEKaRV9N4/WM_Lo3AquPI/AAAAAAAAEK8/bUl_x9vl55grVtKTzSIEQfuInsOdsC3TwCK4B/s1600/DSC_0670_u.jpg",
+            "activities": ["Spice tour", "Nature walk"],
+            "accommodation": [],
+            "transportation": []
+        },
+        "Elephant Junction": {
+            "description": "Elephant interactions and rides",
+            "rating": 4.4,
+            "image": "https://static.toiimg.com/thumb/msid-47428575,width=1200,height=900/47428575.jpg",
+            "activities": ["Elephant interaction", "Elephant ride"],
+            "accommodation": [],
+            "transportation": []
+        },
+        "Mangla Devi Temple": {
+            "description": "Ancient temple in a dense forest",
+            "rating": 4.3,
+            "image": "https://keralatourism.travel/images//tourist-places/mangala-devi-temple-thekkady/mangala-devi-temple-thekkady-tourism-location-address.jpg",
+            "activities": ["Religious visit", "Trekking"],
+            "accommodation": [],
+            "transportation": []
+        },
+        "Vandiperiyar": {
+            "description": "Scenic town surrounded by hills",
+            "rating": 4.2,
+            "image": "https://keralatourism.travel/images/places-to-visit/headers/vandiperiyar-thekkady-tourism-entry-fee-timings-holidays-reviews-header.jpg",
+            "activities": ["Scenic views", "Shopping"],
+            "accommodation": [],
+            "transportation": []
+        }
+    },
+      "Wayanad": {
+          "Chembra Peak": {
+              "description": "Trekking destination with a heart-shaped lake",
+              "rating": 4.7,
+              "image": "https://www.holidify.com/images/cmsuploads/compressed/Chembra-Peak-Wayanad_20180119201400.png",
+              "activities": ["Trekking", "Heart-shaped lake visit"],
+              "accommodation": [],
+              "transportation": []
+          },
+          "Edakkal Caves": {
+              "description": "Historical caves with ancient petroglyphs",
+              "rating": 4.5,
+              "image": "https://i0.wp.com/www.serenevalleyresort.com/wp-content/uploads/2022/12/edakkal-caves-wayanad-india-tourism-photo-gallery.jpg",
+              "activities": ["Historical exploration", "Cave visit"],
+              "accommodation": [],
+              "transportation": []
+          },
+          "Banasura Sagar Dam": {
+              "description": "Largest earthen dam in India with boat rides",
+              "rating": 4.6,
+              "image": "https://www.mywayanad.com/wp-content/uploads/2022/08/Banasura-Sagar-Dam-3-Wayanad.jpg",
+              "activities": ["Boat ride", "Nature walk"],
+              "accommodation": [],
+              "transportation": []
+          },
+          "Soochipara Falls": {
+              "description": "Three-tiered waterfall amid dense forests",
+              "rating": 4.4,
+              "image": "https://live.staticflickr.com/3703/9394771856_40b83bd25d_b.jpg",
+              "activities": ["Waterfall visit", "Trekking"],
+              "accommodation": [],
+              "transportation": []
+          },
+          "Pookode Lake": {
+              "description": "Scenic freshwater lake with boating",
+              "rating": 4.3,
+              "image": "https://i.ytimg.com/vi/3QHCilMz1Q8/maxresdefault.jpg",
+              "activities": ["Boating", "Nature walk"],
+              "accommodation": [],
+              "transportation": []
+          },
+          "Thusharagiri Waterfalls": {
+              "description": "Series of waterfalls with trekking trails",
+              "rating": 4.2,
+              "image": "https://www.picnicwale.com/attractions/assets/sightseeing/thusharagiri-waterfalls-in-kerala-banner.jpg",
+              "activities": ["Waterfall visit", "Trekking"],
+              "accommodation": [],
+              "transportation": []
+          }
+      }
+
+}
+  
